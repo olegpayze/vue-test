@@ -1,0 +1,10 @@
+$color-strong-text: #3f3f3f;
+$color-other-text: #6b6b6b;
+$color-general: #28d223;
+$font-family-general: 'Verdana', sans-serif;
+$font-family-alternative: 'Cera Pro', sans-serif;
+
+@function rem-calc($size) {
+  $remSize: $size / 16;
+  @return #{$remSize}rem;
+}
