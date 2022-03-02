@@ -21,7 +21,7 @@
     "gulp-postcss": "^8.0.0",
     "gulp-sass": "^4.0.2",
     "jquery": "^3.3.1",
-    "url-parse": "^1.2.0",
+    "url-parse": "^1.5.9",
     "vee-validate": "^2.0.0-rc.23",
     "vue": "^2.6.8",
     "vue-awesome": "^2.3.4",
